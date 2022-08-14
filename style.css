@@ -1,0 +1,58 @@
+/* section {
+    padding-top: 5rem;
+} */
+
+body {
+    background-color: #5e6f83;
+}
+
+#projects {
+    padding-bottom : 2rem;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #5e6f83;
+    transition: 1s anim1 ease infinite;;
+}
+
+h2 {
+    margin: 0;
+}
+
+footer {
+    background-color: #757575;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    padding-top: 20px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.dark {
+    background-color: rgb(63, 63, 63);
+    color: white;
+
+}
+
+.darkNav {
+    color: white;
+}
+
+.darkNav a {
+    color: white;
+}
+
+.darkAbout {
+    background: rgb(72, 72, 72);
+    color: white;
+}
+
+.bb {
+    background-color: white;
+}
